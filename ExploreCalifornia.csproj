@@ -16,4 +16,14 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\css\fonts\DroidSerif-BoldItalic-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Oblique-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-webfont.woff" />
+    <Content Remove="wwwroot\images\map_yosemite.gif" />
+    <Content Remove="wwwroot\images\flag.jpg" />
+    <Content Remove="wwwroot\images\asterisk.gif" />
+    <Content Remove="wwwroot\images\return_top.gif" />
+    <Content Remove="wwwroot\images\logo.gif" />
+  </ItemGroup>
 </Project>

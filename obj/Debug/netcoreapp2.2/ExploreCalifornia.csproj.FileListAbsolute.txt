@@ -3,7 +3,6 @@
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/bin/Debug/netcoreapp2.2/ExploreCalifornia.runtimeconfig.dev.json
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/bin/Debug/netcoreapp2.2/ExploreCalifornia.dll
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/bin/Debug/netcoreapp2.2/ExploreCalifornia.pdb
-/Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/obj/Debug/netcoreapp2.2/ExploreCalifornia.csprojAssemblyReference.cache
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/obj/Debug/netcoreapp2.2/ExploreCalifornia.csproj.CoreCompileInputs.cache
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/obj/Debug/netcoreapp2.2/ExploreCalifornia.RazorAssemblyInfo.cache
 /Users/kianakhavan/Desktop/ASP.NET/ExploreCalifornia/obj/Debug/netcoreapp2.2/ExploreCalifornia.RazorAssemblyInfo.cs
